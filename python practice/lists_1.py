@@ -1,7 +1,7 @@
 from loguru import logger
 
-# labour_name = ["Ramesh","Sumesh","Mithilesh","Mahesh",500,400,400,300]
-# print(labour_name)
+labour_name = ["Ramesh","Sumesh","Mithilesh","Mahesh",500,400,400,300]
+print(labour_name)
 # new_labours = ["Ramu", "Mohan"]
 
 # labour_name = labour_name + new_labours
